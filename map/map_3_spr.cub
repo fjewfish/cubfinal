@@ -1,0 +1,19 @@
+R  720 100
+NO ./map/textures/walls/stone1.xpm
+
+SO ./map/textures/walls/wall1.xpm
+
+WE ./map/textures/walls/wall2.xpm
+
+EA ./map/textures/walls/wall3.xpm
+
+S ./map/textures/sprites/ammo.xpm
+
+F  0, 0, 0
+
+C    255,  255,255
+111111    1
+100011   11
+100011    1
+100S1
+11111

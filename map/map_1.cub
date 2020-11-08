@@ -1,0 +1,19 @@
+R  700 700
+
+NO ./map/textures/1024/wall.xpm
+
+SO ./map/textures/1024/wall.xpm
+
+WE ./map/textures/1024/wall2.xpm
+
+EA ./map/textures/1024/wall2.xpm
+
+S ./map/textures/1024/spr.xpm
+
+F  0    , 0   ,     0
+
+C    255,255,    255
+111
+101
+1N1
+111
